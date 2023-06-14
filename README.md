@@ -8,3 +8,4 @@ This is algorithm study repository for NO Family.
 ### kyuNo:smiley:
 * Java
 * Student
+* rank - [bronze](https://solved.ac/problems/level/1)
